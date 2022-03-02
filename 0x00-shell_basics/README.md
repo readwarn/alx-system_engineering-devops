@@ -11,3 +11,5 @@ ls -la - list all files (and hidden files) in the current directory in a long fo
 
 ls -n -a - display current directory contents (and hidden files) in a long format, with user and group IDs listed numerically
 
+mkdir /tmp/my_first_directory - command to create my_first_directory directory in tmp directory
+
