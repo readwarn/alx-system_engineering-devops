@@ -7,3 +7,5 @@ cd - go to home directory
 
 ls -l - display current directory contents in a long format
 
+ls -la - list all files (and hidden files) in the current directory in a long format
+
