@@ -24,3 +24,5 @@ cd - - go back to previous directory
 ls -l -a . .. /boot - list all files (and hidden) in current directory, parent of current directory and the boot directory
 
 file /tmp/iamafile - prints the type of a file
+
+ln -s /bin/ls ./__ls__ - Create a symbolic link
