@@ -14,3 +14,5 @@ ls -n -a - display current directory contents (and hidden files) in a long forma
 mkdir /tmp/my_first_directory - command to create my_first_directory directory in tmp directory
 
 mv /tmp/betty /tmp/my_first_directory - move file betty from tmp directory to my_firsy_directory
+
+rm /tmp/my_first_directory/betty - delete betty from my_first_directory folder
