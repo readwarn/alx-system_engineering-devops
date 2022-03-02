@@ -16,3 +16,5 @@ mkdir /tmp/my_first_directory - command to create my_first_directory directory i
 mv /tmp/betty /tmp/my_first_directory - move file betty from tmp directory to my_firsy_directory
 
 rm /tmp/my_first_directory/betty - delete betty from my_first_directory folder
+
+rm -r /tmp/my_first_directory - delete folder my_first_directory from tmp
