@@ -19,4 +19,4 @@ rm /tmp/my_first_directory/betty - delete betty from my_first_directory folder
 
 rm -r /tmp/my_first_directory - delete folder my_first_directory from tmp
 
-cd .. - go back to previous directory
+cd - - go back to previous directory
