@@ -22,3 +22,5 @@ rm -r /tmp/my_first_directory - delete folder my_first_directory from tmp
 cd - - go back to previous directory
 
 ls -l -a . .. /boot - list all files (and hidden) in current directory, parent of current directory and the boot directory
+
+file /tmp/iamafile - prints the type of a file
