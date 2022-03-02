@@ -9,3 +9,5 @@ ls -l - display current directory contents in a long format
 
 ls -la - list all files (and hidden files) in the current directory in a long format
 
+ls -n -a - display current directory contents (and hidden files) in a long format, with user and group IDs listed numerically
+
