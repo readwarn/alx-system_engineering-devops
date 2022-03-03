@@ -35,4 +35,5 @@ rm ./*~ - deletes all files in the current working directory that end with the c
 
 mkdir -p welcome/to/school - creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 
+ls -pma -  lists all the files and directories of the current directory, separated by commas (,).
 
