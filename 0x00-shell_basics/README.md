@@ -29,4 +29,6 @@ ln -s /bin/ls ./__ls__ - Create a symbolic link
 
 cp -u ./*.html ../ - copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 
-mv [[:upper:]]* /tmp/u - moves all files beginning with an uppercase letter to the directory /tmp/u.
+mv [[:upper:]]* /tmp/u - moves all files beginning with an uppercase letter to the directory /tmp/u
+
+rm ./*~ - deletes all files in the current working directory that end with the character ~
